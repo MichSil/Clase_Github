@@ -1,3 +1,5 @@
-tengo un gato llamado rosco
+tengo un gato llamado rosco,
+soy el tercer cambio,
+estudio en DEVF,
+mi cumpleaños es en junio,
 
-soy el tercer cambio
